@@ -1,0 +1,30 @@
+body {
+	background: #B79E9E;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+
+header {
+	margin-top: 100px;
+}
+
+footer {
+	margin-bottom: 100px;
+}
+
+h1 {
+	color: blue;
+	font-family: fantasy;
+}
+
+p {
+	font-size: 18px;
+}
+img{
+	width: 500px;
+}
+.logoandrius {
+	width: 80px;
+	margin-right: 300px;
+	margin-left: 100px;
+}
